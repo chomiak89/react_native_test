@@ -39,6 +39,8 @@ function GoalInput(props) {
 
 export default GoalInput;
 
+//STYLES
+
 const styles = StyleSheet.create({
   inputContainer: {
     flex: 1,

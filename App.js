@@ -67,6 +67,8 @@ export default function App() {
   );
 }
 
+//STYLES
+
 const styles = StyleSheet.create({
   appContainer: {
     flex: 1,
